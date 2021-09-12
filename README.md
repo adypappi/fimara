@@ -9,17 +9,14 @@ You can freely use, study, modify or distribute it according to its licence.
 
 You can use it as a standalone application or as a web application to access it from the Internet or a LAN.
 
-Fimara has a large community ready to help you, free forums and [preferred partners ready to offer commercial support should you need it](https://partners.fimara.org)
-
-![ScreenShot](https://www.fimara.org/medias/dolibarr_screenshot1_1920x1080.jpg)
 
 ## LICENSE
 
 Fimara is released under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version (GPL-3+).
 
-See the [COPYING](https://github.com/Fimara/fimara/blob/develop/COPYING) file for a full copy of the license.
+See the [COPYING](https://github.com/adypappi/fimara/blob/develop/COPYING) file for a full copy of the license.
 
-Other licenses apply for some included dependencies. See [COPYRIGHT](https://github.com/Fimara/fimara/blob/develop/COPYRIGHT) for a full list.
+Other licenses apply for some included dependencies. See [COPYRIGHT](https://github.com/Adypappi/fimara/blob/develop/COPYRIGHT) for a full list.
 
 ## INSTALLING
 
@@ -34,7 +31,7 @@ On GNU/Linux, first check if your distribution has already packaged Fimara.
 
 #### Generic install steps:
 
-- Check that your installed PHP version is supported [see PHP support](https://wiki.fimara.org/index.php/Releases).
+- Check that your installed PHP version is supported [see PHP support](https://fimara.adipappi.net/index.php/Releases).
 
 - Uncompress the downloaded .zip archive to copy the "fimara/htdocs" directory and all its files inside your web server root or get the files directly from GitHub (recommanded if you know git as it makes it easier if you want to upgrade later):
 
@@ -79,7 +76,7 @@ Fimara supports upgrading, usually without the need for any (commercial) support
 
 ## WHAT'S NEW
 
-See the [ChangeLog](https://github.com/Fimara/fimara/blob/develop/ChangeLog) file.
+See the [ChangeLog](https://github.com/Adypappi/fimara/blob/develop/ChangeLog) file.
 
 
 ## FEATURES
@@ -195,13 +192,6 @@ See the [ChangeLog](https://github.com/Fimara/fimara/blob/develop/ChangeLog) fil
 - MariaDB, MySQL or PostgreSQL 
 - Compatible with all Cloud solutions that match PHP & MySQL or PostgreSQL prerequisites.
 
-See exact requirements on the [Wiki](https://wiki.fimara.org/index.php/Prerequisite)
-
-
-### Extending
-
-Fimara can be extended with a lot of other external application or modules from third party developers available at the [DoliStore](https://www.dolistore.com).
-
 
 ## WHAT FIMARA CAN'T DO YET
 
@@ -225,14 +215,14 @@ Please read the instructions how to contribute (report a bug/error, a feature re
 
 A view on Contributors:
 
-<a href="https://github.com/Fimara/fimara/graphs/contributors"><img src="https://opencollective.com/fimara/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Adypappi/fimara/graphs/contributors"><img src="https://opencollective.com/fimara/contributors.svg?width=890&button=false" /></a>
 
 
 ## CREDITS
 
 Fimara is the work of many contributors over the years and uses some fine PHP libraries.
 
-See [COPYRIGHT](https://github.com/Fimara/fimara/blob/develop/COPYRIGHT) file.
+See [COPYRIGHT](https://github.com/Adypappi/fimara/blob/develop/COPYRIGHT) file.
 
 
 ## NEWS AND SOCIAL NETWORKS
